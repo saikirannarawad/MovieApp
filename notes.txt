@@ -1,0 +1,15 @@
+note : in next.js it is mobile development first
+
+
+1) npx create-next-app HULU
+2) cd HULU
+3) npm run dev
+-----------------------------------------------
+
+4) go to tailwind css wesite and click on the next.js framework and set the things by following the steps
+
+-----------------------------------------------
+
+5) creat components {Header.js , Headeritem.js etc}
+
+6) go to heroicons website and install [npm install @heroicons/react]
